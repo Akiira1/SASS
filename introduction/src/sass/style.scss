@@ -1,0 +1,19 @@
+@import url(./_variable.sass);
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    nav{
+        ul{
+            list-style: none;
+            li{
+                display: flex;
+                justify-content: center;
+            }
+        p{
+            color: yellow;
+        }
+        }
+    }
+}
